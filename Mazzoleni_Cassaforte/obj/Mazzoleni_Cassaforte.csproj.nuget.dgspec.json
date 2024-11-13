@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mazzoleni.21198\\source\\repos\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj": {}
+    "C:\\Users\\mazzoleni.21198\\Desktop\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mazzoleni.21198\\source\\repos\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj": {
+    "C:\\Users\\mazzoleni.21198\\Desktop\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mazzoleni.21198\\source\\repos\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj",
+        "projectUniqueName": "C:\\Users\\mazzoleni.21198\\Desktop\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj",
         "projectName": "Mazzoleni_Cassaforte",
-        "projectPath": "C:\\Users\\mazzoleni.21198\\source\\repos\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj",
+        "projectPath": "C:\\Users\\mazzoleni.21198\\Desktop\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte.csproj",
         "packagesPath": "C:\\Users\\mazzoleni.21198\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mazzoleni.21198\\source\\repos\\Mazzoleni_Cassaforte\\obj\\",
+        "outputPath": "C:\\Users\\mazzoleni.21198\\Desktop\\Mazzoleni_Cassaforte\\Mazzoleni_Cassaforte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
